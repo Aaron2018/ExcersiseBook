@@ -1,7 +1,8 @@
+# encoding:utf-8
 #https://www.jianshu.com/p/193d2ff17a27
 #激活码
 
-# coding:utf-8
+
 import random
 import string
 
